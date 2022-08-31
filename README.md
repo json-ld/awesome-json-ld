@@ -23,6 +23,7 @@ A list of awesome JSON-LD resources.
 
 - https://json-ld.org/
 - https://www.w3.org/2018/json-ld-wg/
+- https://www.w3.org/groups/cg/json-ld
 
 ## Repositories
 
