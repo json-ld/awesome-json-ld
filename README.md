@@ -41,4 +41,49 @@ A list of awesome JSON-LD resources.
 
 ## Implementations
 
-- TODO. See https://json-ld.org/.
+### Javascript
+
+- [jsonld.js](https://github.com/digitalbazaar/jsonld.js) - 1.0 & 1.1
+- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - 1.0 & 1.1
+- [jsonld-streaming-serializer.js](https://github.com/rubensworks/jsonld-streaming-serializer.js) - 1.0 & 1.1
+- [rdf-parse.js](https://github.com/rubensworks/rdf-parse.js) - 1.0 & 1.1
+
+### Python
+
+- [PyLD](https://github.com/digitalbazaar/pyld) - 1.0 & 1.1
+- [RDFLib](https://github.com/RDFLib/rdflib) - 1.0 only
+
+### Ruby
+
+- [JSON-LD for RDF.rb](https://github.com/ruby-rdf/json-ld/) - 1.0 & 1.1
+
+### Go
+
+- [JSON-goLD](https://github.com/piprate/json-gold) - 1.0 & 1.1
+
+### Java
+
+- [Titanium](https://github.com/filip26/titanium-json-ld) - 1.0 & 1.1
+- [JSONLD-JAVA](https://github.com/jsonld-java/jsonld-java) - 1.0 only
+
+### C#
+
+- [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf) - 1.0 & 1.1
+- [json-ld.net](https://github.com/linked-data-dotnet/json-ld.net) - 1.0 only
+
+### Erlang / Elixir
+
+- [jsonld-ex](https://github.com/marcelotto/jsonld-ex) - 1.0 only
+
+### PHP
+
+- [php-json-ld](https://github.com/digitalbazaar/php-json-ld) - 1.0 only
+- [JsonLD](http://m.lanthi.com/json-ld) - 1.0 only
+
+### Rust
+
+- [json-ld](https://github.com/timothee-haudebourg/json-ld) - 1.0 & 1.1 (WIP)
+
+### Typescript
+
+- [jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - 1.0 & 1.1 (WIP)
