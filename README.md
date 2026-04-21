@@ -14,7 +14,7 @@ A list of awesome [JSON-LD](https://json-ld.org/) resources.
   - [WIP Editor's Draft](https://w3c.github.io/json-ld-framing/)
   - [Repo](https://github.com/w3c/json-ld-framing/)
  
-### Related Formates
+### Related Formats
 
 - [CBOR-LD](https://github.com/w3c/cbor-ld) - space constrained JSON-LD
 - [YAML-LD](https://github.com/w3c/yaml-ld) - human friendly JSON-LD authoring
