@@ -1,43 +1,43 @@
 # Awesome JSON-LD
 
-A list of awesome JSON-LD resources.
+A list of awesome [JSON-LD](https://json-ld.org/) resources.
 
-## Documentation
+## W3C Technical Recommendation Specifications
 
-- https://json-ld.org/
+- [JSON-LD Syntax](https://www.w3.org/TR/json-ld/) - how JSON-LD documents are written
+  - [WIP Editor's Draft](https://w3c.github.io/json-ld-syntax/)
+  - [Repo](https://github.com/w3c/json-ld-syntax/)
+- [JSON-LD API](https://www.w3.org/TR/json-ld-api/) - processing JSON-LD documents and contexts
+  - [WIP Editor's Draft](https://w3c.github.io/json-ld-api/)
+  - [Repo](https://github.com/w3c/json-ld-api/)
+- [JSON-LD Framing](https://www.w3.org/TR/json-ld-framing/) - reshaping/framing JSON-LD documents
+  - [WIP Editor's Draft](https://w3c.github.io/json-ld-framing/)
+  - [Repo](https://github.com/w3c/json-ld-framing/)
+ 
+### Related Formates
 
-### Published
+- [CBOR-LD](https://github.com/w3c/cbor-ld) - space constrained JSON-LD
+- [YAML-LD](https://github.com/w3c/yaml-ld) - human friendly JSON-LD authoring
 
-- https://www.w3.org/TR/json-ld/
-- https://www.w3.org/TR/json-ld-api/
-- https://www.w3.org/TR/json-ld-framing/
-- https://www.w3.org/TR/json-ld11-streaming/
+### Official Contexts
 
-### Drafts
+- [JSON-LD Recommended Context](https://github.com/w3c/json-ld-rc) - handy prefixes for getting started
 
-- https://w3c.github.io/json-ld-syntax/
-- https://w3c.github.io/json-ld-api/
-- https://w3c.github.io/json-ld-framing/
+### W3C Notes
+
+- [JSON-LD Best Practices](https://w3c.github.io/json-ld-bp/)
+- [JSON-LD Streaming](https://www.w3.org/TR/json-ld11-streaming/)
 
 ## Groups
 
-- https://json-ld.org/
-- https://www.w3.org/2018/json-ld-wg/
-- https://www.w3.org/groups/cg/json-ld
+- [JSON-LD Working Group](https://www.w3.org/groups/wg/json-ld/)
+- [JSON-LD Community Group](https://www.w3.org/groups/cg/json-ld)
 
 ## Repositories
 
-- https://github.com/json-ld/
-- https://github.com/json-ld/awesome-json-ld
-- https://github.com/json-ld/json-ld.org
-- https://github.com/w3c/json-ld-api
-- https://github.com/w3c/json-ld-bp
-- https://github.com/w3c/json-ld-cbor
-- https://github.com/w3c/json-ld-framing
-- https://github.com/w3c/json-ld-rc
-- https://github.com/w3c/json-ld-streaming
-- https://github.com/w3c/json-ld-syntax
-- https://github.com/w3c/json-ld-wg
+- [JSON-LD Community Group on GitHub](https://github.com/json-ld/)
+- [Aewsome JSON-LD](https://github.com/json-ld/awesome-json-ld)
+- [json-ld.org source code](https://github.com/json-ld/json-ld.org)
 
 ## Implementations
 
