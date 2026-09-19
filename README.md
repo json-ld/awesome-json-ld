@@ -39,6 +39,10 @@ A list of awesome [JSON-LD](https://json-ld.org/) resources.
 - [Aewsome JSON-LD](https://github.com/json-ld/awesome-json-ld)
 - [json-ld.org source code](https://github.com/json-ld/json-ld.org)
 
+## Playable graphs
+
+- [JSON-LD graph bind](https://github.com/shaneraphel/jsonld-graph-bind) - register graphs by jsonld id; catalog tape of dest Pages at [fixtures/catalog.jsonld](https://github.com/shaneraphel/jsonld-graph-bind/blob/main/fixtures/catalog.jsonld)
+
 ## Implementations
 
 ### Javascript
